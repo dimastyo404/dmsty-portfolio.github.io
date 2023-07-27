@@ -2,7 +2,8 @@
   padding-top: 6rem;
   background-color: #e2edff;
 }
-#projects {
+#projects,
+#contact {
   background-color: #e2edff;
 }
 footer a {
@@ -10,4 +11,10 @@ footer a {
 }
 section {
   padding-top: 5rem;
+}
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
 }
